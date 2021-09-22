@@ -1,0 +1,2 @@
+sizeof -> size of any particular data type 
+int n = sizeof(A)/sizeof(A[0]);

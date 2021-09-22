@@ -1,0 +1,3 @@
+for identifing Binary search 
+"sorted"
+sorted array -> BS (99%)
