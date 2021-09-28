@@ -52,7 +52,6 @@ void pop() {
     }
     stack->topIndex = 0;
     stack->topIndex--;
-
 }
 int isBalanced(char exp[]) {
     for(int i=0;exp[i]!='\0';i++) {
